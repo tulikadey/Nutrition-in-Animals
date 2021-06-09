@@ -1,0 +1,62 @@
+body{
+    background-size:cover;
+
+    
+    background-color:black;
+
+}
+.title{
+    margin-top: 100px;
+    margin-left: 400px;
+    /* margin-bottom: -900px; */
+    color:white;
+}
+
+.haeding{
+    margin-left: 600px;
+    color:white;
+}
+.tihe{
+    color: white;
+}
+.tihea{
+    color: white;
+    font-size: 25px;
+}
+.tihed{
+    color: white;
+    margin-left: 100px;
+}
+.ele{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: -10px;
+}.zoo{
+    margin-left: 300px;
+    margin-top: -10px;
+    height: 400px;
+    width: 400px;
+}
+.but{
+    margin-left: 50px;
+    margin-top: 10px;
+   
+}
+.can{
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.omn{
+    margin-left:50px;
+    margin-top: 50px;
+}
+.qu{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.tri{
+    margin-left: 100px;
+    margin-top: 50px;
+}

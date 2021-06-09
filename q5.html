@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <title>Trivia</title>
+        <link rel="stylesheet" type="text/css" href="quiz.css">
+    </head>
+    <body style="background:black;">
+        <h1 class="quiz">Quiz</h1>
+        <br>
+        <br>
+        <div class="container">
+            <form >
+                <p>5.Lions are?</p>
+                <input type="radio"class="mon" id="monkeys" name="Q1" value="monkeys">
+                <label for="monkeys">Omnivore</label><br>
+                <input type="radio" id="lizards" name="Q1" value="lizards">
+                <label for="lizards">Borivore</label><br>
+                <input type="radio" id="hens" name="Q1" value="hens">
+                <label for="hens">Carnivore</label><br>
+                <input type="radio" id="kites" name="Q1" value="kites">
+                <label for="kites">Herbivore</label>
+                <br>  	
+              </form>
+              <div style="text-align: center; padding-top: 20px;">
+                <button class="next" onclick="nenxt();" >Next</button>
+            <!-- <button class="prv" onclick="Previous();" >Previous</button>  -->
+            </div>
+        </div>
+        <br>
+        <br>
+            <span>
+                <img class="but" src="home.jpg" onclick="home();">
+                <img class="but" src="herb.png" onclick="herb();">
+                <img class="can" src="can.png" onclick="can();">
+                <img class="omn" src="omn.png" onclick="omn();">
+                <!-- <img class="tri" src="tri.png"onclick="tri();"> -->
+                <img class="qu" src="quiz.png" onclick="quiz();">
+            
+               </span>
+   <!-- <span>
+    <img class="zoo" src="cow.jpg">
+    <img class="lion" src="lion.jpg">
+    <img class="bear" src="rab.jpg">
+   </span> -->
+   
+  
+    </body>
+    <script src="Q2.js"></script>
+</html>

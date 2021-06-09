@@ -1,0 +1,44 @@
+.body{
+    background-color: black;
+}
+.container{
+    background-color: black;
+    color: white;
+   border: white;
+}
+.next{
+    background-color: black;
+    color:white;
+}
+.prv{
+    background-color: black;
+    color:white;
+}
+.quiz{
+    color: white;
+    text-align: center;
+}
+.mon{
+    size: 20%;
+}
+.but{
+    margin-left: 100px;
+    margin-top: 50px;
+   
+}
+.can{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.omn{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.qu{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.tri{
+    margin-left: 100px;
+    margin-top: 50px;
+}
